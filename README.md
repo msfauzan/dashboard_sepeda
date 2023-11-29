@@ -4,11 +4,11 @@
 ```
 pip install pandas matplotlib seaborn streamlit plotly
 ```
-## Run steamlit app
+## Run streamlit app
 ```
 streamlit run dashboard.py
 ```
-## URL steamlit cloud
+## URL streamlit cloud
 ```
 https://dashboardsepeda-aku.streamlit.app/
 ```
