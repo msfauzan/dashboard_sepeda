@@ -8,8 +8,8 @@ from datetime import datetime
 
 @st.cache_data
 def load_data():
-    day_data = pd.read_csv("day.csv")
-    hour_data = pd.read_csv("hour.csv")
+    day_data = pd.read_csv("Dashboard/day.csv")
+    hour_data = pd.read_csv("Dashboard/hour.csv")
     day_data["dteday"] = pd.to_datetime(day_data["dteday"])
     return day_data, hour_data
 
