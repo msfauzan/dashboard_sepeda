@@ -8,6 +8,7 @@ Dashboard interaktif ini dibuat menggunakan Streamlit untuk analisis data penyew
 https://dashboardsepeda-aku.streamlit.app/
 ```
 
+![Dashboard Snapshot]([https://example.com/image.jpg](https://github.com/msfauzan/dashboard_sepeda/blob/main/Snapshot%20Dashboard.png?raw=true))
 
 
 ## Cara Menjalankan Dashboard
