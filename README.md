@@ -2,14 +2,13 @@
 
 Dashboard interaktif ini dibuat menggunakan Streamlit untuk analisis data penyewaan sepeda. Dashboard ini memungkinkan pengguna untuk melihat ringkasan data, visualisasi, dan analisis tren penyewaan sepeda berdasarkan berbagai faktor seperti waktu, cuaca, dan musim.
 
-
 ## URL streamlit cloud
+
 ```
 https://dashboardsepeda-aku.streamlit.app/
 ```
 
-![Dashboard Snapshot]([https://example.com/image.jpg](https://github.com/msfauzan/dashboard_sepeda/blob/main/Snapshot%20Dashboard.png?raw=true))
-
+![Dashboard Snapshot](https://github.com/msfauzan/dashboard_sepeda/blob/main/Snapshot%20Dashboard.png)
 
 ## Cara Menjalankan Dashboard
 
